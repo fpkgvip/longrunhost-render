@@ -259,7 +259,6 @@ section .title::after{
     display: flex;
     /*
     background: url("techbanner.jpg") no-repeat center; Sooner needed*/
-    background-color: #000;
     height: 100vh;
     color: #fff;
     min-height: 500px;
