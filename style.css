@@ -258,7 +258,7 @@ section .title::after{
 .home{
     display: flex;
     /*
-    background-image: url("techbanner.jpg") no-repeat center; Sooner needed*/
+    background-image: url("https://longrunhost.onrender.com/techbanner.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
