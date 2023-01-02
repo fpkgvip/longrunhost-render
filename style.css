@@ -258,7 +258,7 @@ section .title::after{
 .home{
     display: flex;
     /*
-    background: url("images/techbanner.jpg") no-repeat center; Sooner needed*/
+    background: url("techbanner.jpg") no-repeat center; Sooner needed*/
     background-color: #000;
     height: 100vh;
     color: #fff;
