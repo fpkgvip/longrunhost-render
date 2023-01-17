@@ -258,8 +258,8 @@ section .title::after{
 .home{
     display: flex;
     /*
-    background-image: url("https://longruncsshost.000webhostapp.com/techbanner.jpg");
-    background-color:red;
+    background: url("images/techbanner.jpg") no-repeat center; Sooner needed*/
+    background-image: ;
     height: 100vh;
     color: #fff;
     min-height: 500px;
