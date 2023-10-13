@@ -257,7 +257,7 @@ section .title::after{
 /* home section styling */
 .home {
     display: flex;
-    background-image: url("https://pfst.cf2.poecdn.net/processed/4292271a5705162fda9994c42d26f572612f86396cd2550d82609064ff15bd84");
+    background-image: url("https://longrunhost.onrender.com/techbanner.jpg");
     height: 100vh;
     color: #fff;
     min-height: 500px;
